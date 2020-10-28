@@ -1,0 +1,59 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "9403faedd788461db35414b67a959faf"
+  OwnerAccountId: "54d6c37e71a546f7bfd480d8e654f45e"
+  OwnerName: "Tobs"
+  Version: "1.2.0"
+}
+AssetIdsOriginalToNew {
+  key: 1683114021203363022
+  value: 2951159830311471888
+}
+AssetIdsOriginalToNew {
+  key: 3039684979393304354
+  value: 15781138412136596235
+}
+AssetIdsOriginalToNew {
+  key: 7560597166793505463
+  value: 5222057187260212944
+}
+AssetIdsOriginalToNew {
+  key: 8113725433182133795
+  value: 16108163678909299418
+}
+AssetIdsOriginalToNew {
+  key: 8163343952479535019
+  value: 16406044951930548833
+}
+AssetIdsOriginalToNew {
+  key: 8688477279662119454
+  value: 15391042420946416778
+}
+AssetIdsOriginalToNew {
+  key: 12107734285812188601
+  value: 12520403877708549820
+}
+AssetIdsOriginalToNew {
+  key: 12666826945888564064
+  value: 16410088242709536677
+}
+AssetIdsOriginalToNew {
+  key: 13253325870475057691
+  value: 1554291150832823128
+}
+AssetIdsOriginalToNew {
+  key: 14253364123482785044
+  value: 9082811398565866997
+}
+AssetIdsOriginalToNew {
+  key: 14783867922774935538
+  value: 17532116797573688690
+}
+AssetIdsOriginalToNew {
+  key: 16922566662677722612
+  value: 18043705386280866117
+}
+AssetIdsOriginalToNew {
+  key: 17103588375713329285
+  value: 16744133391933129740
+}
